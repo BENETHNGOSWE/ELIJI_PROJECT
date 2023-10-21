@@ -38,7 +38,7 @@ class AuthController extends Controller
         ];
 
         if (Auth::attempt($credetials)) {
-            return redirect('/')->with('success','Login successfully');
+            return redirect('/elijidashboard')->with('success','Login successfully');
     }
     return back()->with('error','Email or Password not correct');
     }

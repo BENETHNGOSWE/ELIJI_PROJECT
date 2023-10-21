@@ -68,6 +68,7 @@
                             <li>
                             <li><a href="{{ route('allservicesfolder.allservicespages')}}">Services</a>
                             </li>
+                            <li><a href="{{ route('contactus.contactus')}}">Contact</a></li>
                             <li><a href="gallery.html">Portfolio</a></li>
                             <li><a href="#">Blog</a>
                                 <ul class="nav-dropdown">
@@ -78,9 +79,7 @@
                                         <a href="blog-single.html">blog single</a>
                                     </li>
                                 </ul>
-                            </li>
-                                <a href="{{ route('contactus.contactus')}}">Contact</a>
-                            </li>
+                            
                             <li>
                                 <a href="#">Pages</a>
                                 <ul class="nav-dropdown">

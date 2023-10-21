@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ElijiController;
 use App\Http\Controllers\auth\AuthController;
+use App\Http\Controllers\dashboard\DashboardController;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,8 +35,13 @@ Route::get('/contact-us', [ElijiController::class, 'contactus'])->name('contactu
 Route::get('/about-us', [ElijiController::class, 'aboutus'])->name('about_us.aboutus');
 
 
+
+
 Route::group(['middleware' => 'auth'], function() {
-    Route::get('/dashboard',[ElijiController::class, 'index'])->name('home');
+    Route::get('/elijidashboard', [DashboardController::class,'dashboardhome'])->name('dashboard.dashboardhomepage');
+
+    // Route::get('/dashboard',[ElijiController::class, 'index'])->name('home');
+    
 });
 
 
