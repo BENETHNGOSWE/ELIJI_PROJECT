@@ -10,7 +10,7 @@
                 <div class="col-lg-3">
                     <div class="widgets">
                         <div class="footer-logo">
-                            <a href="index.html"><img src="assets/images/logo-white.png" alt> </a>
+                            <a href="index.html"><img src="assets/images/about/logo_2.webp" width="110em"alt> </a>
                         </div>
                         <p>
                             Fruit is their fill meat hath abundantly place meat don't stars so and which signs third second

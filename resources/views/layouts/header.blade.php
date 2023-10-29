@@ -29,7 +29,7 @@
             <div class="col-md-3 align-self-center">
                 <div class="logo">
                     <a href="index.html">
-                        <img src="assets/images/logo.png" alt>
+                        <img src="assets/images/about/logo_3.webp" width="80em"alt>
                     </a>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <div class="nav-header">
 
                         <a href="{{ route('home')}}" class="mobile-logo">
-                            <img src="assets/images/mobile_logo.png" alt>
+                            <img src="assets/images/about/logo_2.webp" width="60em"alt>
                         </a>
                         <div class="nav-toggle"></div>
                     </div>

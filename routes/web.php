@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ElijiController;
 use App\Http\Controllers\auth\AuthController;
 use App\Http\Controllers\dashboard\DashboardController;
+use App\Http\Controllers\Contact\ContactCOntroller;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,6 +35,9 @@ Route::get('/allservicespage', [ElijiController::class, 'allservicespage'])->nam
 Route::get('/contact-us', [ElijiController::class, 'contactus'])->name('contactus.contactus');
 Route::get('/about-us', [ElijiController::class, 'aboutus'])->name('about_us.aboutus');
 
+
+Route::get('/create-contact',[ContactCOntroller::class, 'create'])->name('contacts.create');
+Route::post('/store-client',[ContactCOntroller::class, 'store'])->name('contacts.store');
 
 
 

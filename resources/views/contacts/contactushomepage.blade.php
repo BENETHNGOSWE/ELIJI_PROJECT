@@ -5,32 +5,25 @@
                 <div class="call-back-content">
                     <p class="call-contact-text">We will contact</p>
                     <h3>Get a <span>call back</span></h3>
-                    <form class="call-back-form">
+                    <form class="call-back-form" action="{{ route('contacts.store')}}" method="POST">
+                        @csrf
                         <div class="form-group">
-                            <input type="text" name="name" value placeholder="Your Name" class="call-back-inp" />
+                            <input type="text" name="client_name" id="client_name" value placeholder="Your Name" class="call-back-inp" />
                         </div>
                         <div class="form-group">
-                            <input type="email" name="email" value placeholder="Email " class="call-back-inp" />
+                            <input type="email" name="client_email" id="client_email" value placeholder="Email " class="call-back-inp" />
                         </div>
                         <div class="form-group">
-                            <input type="number" name="phone" value placeholder="Phone no" class="call-back-inp" />
-                        </div>
-                        <div class="form-group">
-                            <select>
-                                <option>Service</option>
-                                <option>Service One</option>
-                                <option>Service two</option>
-                                <option>Service three</option>
-                            </select>
+                            <input type="number" name="client_phonenumber" id="client_phonenumber" value placeholder="Phone no" class="call-back-inp" />
                         </div>
                         <div class="form-group xs-mb-40">
-                            <textarea name="message" placeholder="Message" class="call-back-inp call-back-msg"></textarea>
+                            <textarea name="client_message" id="client_message" placeholder="Message" class="call-back-inp call-back-msg"></textarea>
                         </div>
                         <div class="form-group">
                             <button type="submit" name="submit" class="xs-btn">
                                 Submit
                             </button>
-                            <label class="call-us-number">Or Call US - <span>+255 757 532 412</span></label>
+                            <label class="call-us-number">Or Call US - <span>098 2639 6257</span></label>
                         </div>
                     </form>
                 </div>
@@ -57,9 +50,9 @@
                         </div>
                     </div>
 
-                    </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </section>

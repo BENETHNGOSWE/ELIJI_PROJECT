@@ -81,78 +81,28 @@
                     <label>2012</label>
                 </div>
                 <div class="single-timeline-content">
-                    <img src="assets/images/about/timeline_img_1.jpg" alt>
+                    <img src="assets/images/about/logo_2.webp" width="290em" alt>
                     <h3>2012</h3>
                     <p>Be brought first whales he signs thing our give were all
                         fowl sea upon make firmament called face together.
                     </p>
                 </div>
             </div>
-            <div class="col-md col-sm-6 single-timeline-item xs-padding-0">
-                <div class="history-of-timeline">
-                    <span class="circle-border"></span>
-                    <label>2013</label>
-                </div>
-                <div class="single-timeline-content">
-                    <img src="assets/images/about/timeline_img_2.jpg" alt>
-                    <h3>2013</h3>
-                    <p>Be brought first whales he signs thing our give were all
-                        fowl sea upon make firmament called face together.
-                    </p>
-                </div>
-            </div>
-            <div class="col-md col-sm-6 single-timeline-item xs-padding-0 active">
-                <div class="history-of-timeline">
-                    <span class="circle-border"></span>
-                    <label>2014</label>
-                </div>
-                <div class="single-timeline-content">
-                    <img src="assets/images/about/timeline1.jpg" alt>
-                    <h3>2014</h3>
-                    <p>Be brought first whales he signs thing our give were all
-                        fowl sea upon make firmament called face together.
-                    </p>
-                </div>
-            </div>
-            <div class="col-md col-sm-6 single-timeline-item xs-padding-0">
-                <div class="history-of-timeline">
-                    <span class="circle-border"></span>
-                    <label>2015</label>
-                </div>
-                <div class="single-timeline-content">
-                    <img src="assets/images/about/timeline_img_3.jpg" alt>
-                    <h3>2015</h3>
-                    <p>Be brought first whales he signs thing our give were all
-                        fowl sea upon make firmament called face together.
-                    </p>
-                </div>
-            </div>
+         
             <div class="col-md col-sm-6 single-timeline-item xs-padding-0">
                 <div class="history-of-timeline">
                     <span class="circle-border"></span>
                     <label>2016</label>
                 </div>
                 <div class="single-timeline-content">
-                    <img src="assets/images/about/timeline_img_4.jpg" alt>
+                    <img src="assets/images/about/logo_2.webp" width="290em"alt>
                     <h3>2016</h3>
                     <p>Be brought first whales he signs thing our give were all
                         fowl sea upon make firmament called face together.
                     </p>
                 </div>
             </div>
-            <div class="col-md col-sm-6 single-timeline-item xs-padding-0">
-                <div class="history-of-timeline">
-                    <span class="circle-border"></span>
-                    <label>2023</label>
-                </div>
-                <div class="single-timeline-content">
-                    <img src="assets/images/about/timeline_img_4.jpg" alt>
-                    <h3>2023</h3>
-                    <p>Be brought first whales he signs thing our give were all
-                        fowl sea upon make firmament called face together.
-                    </p>
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -222,10 +172,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div class="single-team">
                     <div class="team-img">
-                        <img src="assets/images/team/team_1.jpg" alt>
+                        <img src="assets/images/team/team_1.webp" alt>
                         <div class="team-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -237,10 +187,10 @@
                     <p>Gardener</p>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div class="single-team">
                     <div class="team-img">
-                        <img src="assets/images/team/team_2.jpg" alt>
+                        <img src="assets/images/team/team_2.webp" alt>
                         <div class="team-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -252,10 +202,10 @@
                     <p>Gardener</p>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div class="single-team">
                     <div class="team-img">
-                        <img src="assets/images/team/team_3.jpg" alt>
+                        <img src="assets/images/team/team_2.webp" alt>
                         <div class="team-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -267,10 +217,10 @@
                     <p>Gardener</p>
                 </div>
             </div>
-            <div class="col-lg-3 col-sm-6">
+            <!-- <div class="col-lg-3 col-sm-6">
                 <div class="single-team">
                     <div class="team-img">
-                        <img src="assets/images/team/team_4.jpg" alt>
+                        <img src="assets/images/team/team_2.webp" alt>
                         <div class="team-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -281,7 +231,7 @@
                     <h3>Mr. Pongvan</h3>
                     <p>Gardener</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
