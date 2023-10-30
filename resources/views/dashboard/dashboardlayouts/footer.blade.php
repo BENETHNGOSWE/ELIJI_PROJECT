@@ -1,5 +1,4 @@
-<div class="wrapper">
-<footer class="footer">
+<!-- <footer class="footer">
 				<div class="container-fluid">
 					<nav class="pull-left">
 						<ul class="nav">
@@ -24,5 +23,4 @@
 						2023, made withby <a href="https://www.themekita.com">Koda.Koda</a>
 					</div>				
 				</div>
-</footer>
-</div>
+			</footer> -->

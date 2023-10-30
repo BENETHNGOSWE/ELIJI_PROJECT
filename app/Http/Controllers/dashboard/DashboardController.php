@@ -3,11 +3,15 @@
 namespace App\Http\Controllers\dashboard;
 
 use App\Http\Controllers\Controller;
+use App\Models\Contactus;
 use Illuminate\Http\Request;
 
 class DashboardController extends Controller
 {
     public function dashboardhome(){
-        return view("dashboard.dashboardhomepage");
+        $contacts = Contactus::all();
+        return view("dashboard.dashboardhomepage", compact("contacts"));
     }
+
+  
 }

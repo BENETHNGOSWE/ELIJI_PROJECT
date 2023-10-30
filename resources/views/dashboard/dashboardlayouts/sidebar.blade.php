@@ -1,11 +1,11 @@
-<div class="wrapper">
+
 		<div class="main-header">
 			<!-- Logo Header -->
 			<div class="logo-header" style="background-color: #0b214a;">
 				
-				<a href="index.html" class="logo">
-					<img src="../dashboard/assets/img/logo.svg" alt="navbar brand" class="navbar-brand">
-				</a>
+				<div class="text-center">
+					<h2 style="color: white">ELIJI DASHBOARD</h2>
+				</div>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
 						<i class="icon-menu"></i>
@@ -27,7 +27,7 @@
 				<div class="sidebar-content">
 					<div class="user">
 						<div class="avatar-sm float-left mr-2">
-							<img src="../dashboard/assets/img/profile.jpg" alt="..." class="avatar-img rounded-circle">
+							<img src="../assets/images/about/logo_3.webp" alt="..." class="avatar-img rounded-circle">
 						</div>
 						<div class="info">
 							<a data-toggle="collapse" href="#collapseExample" aria-expanded="true">
@@ -153,6 +153,3 @@
 			</div>
 		</div>
 		<!-- End Sidebar -->
-
-
-</div>

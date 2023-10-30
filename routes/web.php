@@ -40,9 +40,11 @@ Route::get('/create-contact',[ContactCOntroller::class, 'create'])->name('contac
 Route::post('/store-client',[ContactCOntroller::class, 'store'])->name('contacts.store');
 
 
-
 Route::group(['middleware' => 'auth'], function() {
     Route::get('/elijidashboard', [DashboardController::class,'dashboardhome'])->name('dashboard.dashboardhomepage');
+    Route::post('/show-client',[ContactCOntroller::class, 'indexcontact'])->name('contacts.indexcontact');
+
+
 
     // Route::get('/dashboard',[ElijiController::class, 'index'])->name('home');
     
