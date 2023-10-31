@@ -31,6 +31,8 @@
         @include('dashboard.dashboardlayouts.sidebar')
         @yield('content')
         @include('dashboard.dashboardlayouts.footer')
+
+		
 	<!--   Core JS Files   -->
 	<script src="{{ asset ('dashboard/assets/js/core/jquery.3.2.1.min.js')}}"></script>
 	<script src="{{ asset ('dashboard/assets/js/core/popper.min.js')}}"></script>

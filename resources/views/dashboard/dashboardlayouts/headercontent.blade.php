@@ -74,16 +74,16 @@
                     <div class="card">
                         <div class="card-header">
                             <div class="d-flex align-items-center">
-                                <h4 class="card-title">Customer List</h4>
-                                <button class="btn btn-round ml-auto" style="background-color: #0b214a;"
+                                <h4 class="card-title">Clients Feedbacks</h4>
+                                <!-- <button class="btn btn-round ml-auto" style="background-color: #0b214a;"
                                     data-toggle="modal" data-target="#addRowModal">
                                     <i class="fa fa-plus" style="color: white;">Add Customer</i>
 
-                                </button>
+                                </button> -->
                             </div>
                         </div>
                         <div class="card-body">
-                            <!-- Modal -->
+                            <!-- Modal
                             <div class="modal fade" id="addRowModal" tabindex="-1" role="dialog" aria-hidden="true">
                                 <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -137,15 +137,15 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="table-responsive">
                                 <table id="add-row" class="display table table-striped table-hover">
                                     <thead>
                                         <tr>
-                                            <th>Name</th>
-                                            <th>Position</th>
-                                            <th>Office</th>
+                                            <th>Client Name</th>
+                                            <th>Client Email</th>
+                                            <th>Client Phone No</th>
                                             <th style="width: 10%">Action</th>
                                         </tr>
                                     </thead>

@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="xs-form-group">
-                    <form action="#" method="POST" id="xs-contact-form" class="xs-form">
+                    <!-- <form action="#" method="POST" id="xs-contact-form" class="xs-form">
                         <div class="row">
                             <div class="col-lg-6">
                                 <input type="text" class="form-control" name="name" placeholder="Your name"
@@ -61,6 +61,34 @@
                             class="form-control message-box" cols="30" rows="10"></textarea>
                         <div class="xs-btn-wraper">
                             <input type="submit" class="xs-btn" id="xs_contact_submit" value="SEND MESSAGE">
+                        </div>
+                    </form> -->
+
+                    <form class="call-back-form" action="{{ route('contacts.store')}}" method="POST">
+                        @csrf
+                        <div class="row">
+                            <div class="form-group col-lg-6">
+                                <input type="text" name="client_name" id="client_name" value placeholder="Your Name" class="call-back-inp" />
+                            </div>
+                            <div class="form-group col-lg-6">
+                                <input type="email" name="client_email" id="client_email" value placeholder="Email " class="call-back-inp" />
+                            </div>   
+                        </div>
+                        
+                        <div class="row">
+                             <div class="form-group col-lg-12">
+                                 <input type="number" name="client_phonenumber" id="client_phonenumber" value placeholder="Phone no" class="call-back-inp" />
+                            </div>
+                        </div>
+                       
+                        <div class="form-group xs-mb-40">
+                            <textarea name="client_message" id="client_message" placeholder="Message" class="call-back-inp call-back-msg"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" name="submit" class="xs-btn">
+                                Submit
+                            </button>
+                            <label class="call-us-number">Or Call US - <span>098 2639 6257</span></label>
                         </div>
                     </form>
                 </div>

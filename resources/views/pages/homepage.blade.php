@@ -19,8 +19,8 @@
                       like these sweet mornings of spring whole heart.
                     </p>
                     <div class="xs-btn-wraper">
-                      <a href="#" class="xs-btn"> Our Services </a>
-                      <a href="#" class="xs-btn fill"> Get Quote </a>
+                      <a href="{{ route('allservicesfolder.allservicespages')}}" class="xs-btn"> Our Services </a>
+                      <a href="{{ route('contactus.contactus')}}" class="xs-btn fill"> Get Quote </a>
                     </div>
                   </div>
                 </div>
