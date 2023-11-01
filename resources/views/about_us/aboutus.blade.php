@@ -7,7 +7,7 @@
             data-wow-delay="300ms"
           >
             <div class="about-inner-img">
-              <img src="assets/images/about/about_2.jpg" alt />
+              <img src="assets/images/about/about_2.webp" alt />
             </div>
           </div>
           <div
