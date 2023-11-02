@@ -11,7 +11,7 @@
           data-wow-delay="300ms"
         >
           <div class="about-inner-img">
-            <img src="assets/images/about/about_2.jpg" alt />
+            <img src="assets/images/about/about_2.webp" alt />
           </div>
         </div>
         <div
@@ -78,11 +78,11 @@
             <div class="col-md col-sm-6 single-timeline-item xs-padding-0">
                 <div class="history-of-timeline">
                     <span class="circle-border"></span>
-                    <label>2012</label>
+                    <label>2023</label>
                 </div>
                 <div class="single-timeline-content">
                     <img src="assets/images/about/logo_2.webp" width="290em" alt>
-                    <h3>2012</h3>
+                    <h3>07/082023</h3>
                     <p>Be brought first whales he signs thing our give were all
                         fowl sea upon make firmament called face together.
                     </p>
@@ -92,11 +92,11 @@
             <div class="col-md col-sm-6 single-timeline-item xs-padding-0">
                 <div class="history-of-timeline">
                     <span class="circle-border"></span>
-                    <label>2016</label>
+                    <label>2023</label>
                 </div>
                 <div class="single-timeline-content">
                     <img src="assets/images/about/logo_2.webp" width="290em"alt>
-                    <h3>2016</h3>
+                    <h3>09/09/2023</h3>
                     <p>Be brought first whales he signs thing our give were all
                         fowl sea upon make firmament called face together.
                     </p>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-lg-3 align-self-center wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="500ms">
                 <div class="why-choose-inner-img">
-                    <img src="assets/images/about/why-choose-us-inner.png" alt>
+                    <img src="assets/images/about/logo_3.webp" alt>
                 </div>
             </div>
         </div>

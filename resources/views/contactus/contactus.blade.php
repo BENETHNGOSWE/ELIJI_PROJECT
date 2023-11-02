@@ -120,14 +120,8 @@
                 <div class="contact-info-group">
                     <i class="icon-mail"></i>
                     <h4>Mail us</h4>
-                    <a
-                        href="https://html.xpeedstudio.com/cdn-cgi/l/email-protection#a8cbc7c6dcc9cbdce8cdd0c9c5d8c4cd86cbc7c5"><span
-                            class="__cf_email__"
-                            data-cfemail="4c29342d213c20290c2b212d2520622f2321">[email&#160;protected]</span></a>
-                    <a
-                        href="https://html.xpeedstudio.com/cdn-cgi/l/email-protection#f79e999198b7928f969a879b92d994989a"><span
-                            class="__cf_email__"
-                            data-cfemail="1d7f7978657c706d71785d7a707c7471337e7270">[email&#160;protected]</span></a>
+                    <span>info@eliji.co.tz</span>
+                    <span class="text-color">Dar es salaam,Tanzania</span>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
