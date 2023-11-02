@@ -172,6 +172,37 @@
             </div>
         </div>
         <div class="row">
+            
+            <div class="col-lg-4 col-sm-6">
+                <div class="single-team">
+                    <div class="team-img">
+                        <img src="assets/images/team/team_2.webp" alt>
+                        <div class="team-social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                    <h3> Adv. Cletus Nziku</h3>
+                    <p>Advocate</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single-team">
+                    <div class="team-img">
+                        <img src="assets/images/team/team_3.webp" alt>
+                        <div class="team-social">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                    <h3> Adv. Daudi Jige</h3>
+                    <p>Advocate</p>
+                </div>
+            </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="single-team">
                     <div class="team-img">
@@ -183,38 +214,8 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                         </div>
                     </div>
-                    <h3>Mr. Jon miller</h3>
-                    <p>Gardener</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-team">
-                    <div class="team-img">
-                        <img src="assets/images/team/team_2.webp" alt>
-                        <div class="team-social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                        </div>
-                    </div>
-                    <h3>Mr. Kibria mou</h3>
-                    <p>Gardener</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6">
-                <div class="single-team">
-                    <div class="team-img">
-                        <img src="assets/images/team/team_2.webp" alt>
-                        <div class="team-social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                        </div>
-                    </div>
-                    <h3>Mis. Jaqulin</h3>
-                    <p>Gardener</p>
+                    <h3> Adv. Elius Ndabila</h3>
+                    <p>Advocate</p>
                 </div>
             </div>
             <!-- <div class="col-lg-3 col-sm-6">

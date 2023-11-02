@@ -34,7 +34,7 @@
 <section class="xs-contact-sec">
     <div class="container">
         <div class="row">
-            <div class="col-lg-7">
+            <div class="col-sm-6">
                 <div class="xs-form-group">
                     <!-- <form action="#" method="POST" id="xs-contact-form" class="xs-form">
                         <div class="row">
@@ -66,38 +66,34 @@
 
                     <form class="call-back-form" action="{{ route('contacts.store')}}" method="POST">
                         @csrf
-                        <div class="row">
-                            <div class="form-group col-lg-6">
-                                <input type="text" name="client_name" id="client_name" value placeholder="Your Name" class="call-back-inp" />
-                            </div>
-                            <div class="form-group col-lg-6">
-                                <input type="email" name="client_email" id="client_email" value placeholder="Email " class="call-back-inp" />
-                            </div>   
-                        </div>
-                        
-                        <div class="row">
-                             <div class="form-group col-lg-12">
-                                 <input type="number" name="client_phonenumber" id="client_phonenumber" value placeholder="Phone no" class="call-back-inp" />
-                            </div>
-                        </div>
-                       
-                        <div class="form-group xs-mb-40">
-                            <textarea name="client_message" id="client_message" placeholder="Message" class="call-back-inp call-back-msg"></textarea>
+                        <div class="form-group">
+                            <label for="client_name">Your Name</label>
+                            <input type="text" name="client_name" id="client_name" value class="form-control" />
                         </div>
                         <div class="form-group">
-                            <button type="submit" name="submit" class="xs-btn">
-                                Submit
-                            </button>
-                            <label class="call-us-number">Or Call US - <span>098 2639 6257</span></label>
+                            <label for="client_email">Email</label>
+                            <input type="email" name="client_email" id="client_email" value  class="form-control" />
                         </div>
+                        <div class="form-group">
+                            <label for="client_phonenumber">Phone no</label>
+                            <input type="text" name="client_phonenumber" id="client_phonenumber" value class="form-control" />
+                        </div>
+                        <div class="form-group xs-mb-40">
+                            <label for="client_message">Message</label>
+                            <textarea name="client_message" id="client_message" class="form-control"></textarea>
+                        </div>
+                        <button type="submit" name="submit" class="btn btn-primary">
+                            Submit
+                        </button>
+                        <label class="call-us-number">Or Call US - <span>098 2639 6257</span></label>
                     </form>
+                    
                 </div>
             </div>
-            <div class="col-lg-5">
+            <div class="col-sm-6">
                 <div class="contact-map">
                     <div style="width: 100%">
-                        <iframe
-                            src="https://maps.google.com/maps?width=100&amp;height=600&amp;hl=en&amp;q=New%20York%2C%20USA+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15847.750772408559!2d39.21639516849332!3d-6.777438211773844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4c1f8e8f7edd%3A0xb995eb728fdeb2e2!2sKijitonyama%2C%20Dar%20es%20Salaam!5e0!3m2!1sen!2stz!4v1698930864381!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>

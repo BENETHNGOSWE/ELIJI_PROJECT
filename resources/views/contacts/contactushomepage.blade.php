@@ -14,7 +14,7 @@
                             <input type="email" name="client_email" id="client_email" value placeholder="Email " class="call-back-inp" />
                         </div>
                         <div class="form-group">
-                            <input type="number" name="client_phonenumber" id="client_phonenumber" value placeholder="Phone no" class="call-back-inp" />
+                            <input type="text" name="client_phonenumber" id="client_phonenumber" value placeholder="Phone no" class="call-back-inp" />
                         </div>
                         <div class="form-group xs-mb-40">
                             <textarea name="client_message" id="client_message" placeholder="Message" class="call-back-inp call-back-msg"></textarea>

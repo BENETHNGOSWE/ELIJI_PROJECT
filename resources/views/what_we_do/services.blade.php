@@ -18,7 +18,7 @@
           >
             <div class="single-service">
               <div class="service-img">
-                <img src="assets/images/services/service_style_1.jpg" alt />
+                <img src="assets/images/services/service_style_1.webp" alt />
                 <i class="icon-Our_service_1"></i>
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.supportcrop')}}">Support Crop Production</a></h3>
@@ -38,7 +38,7 @@
           >
             <div class="single-service">
               <div class="service-img">
-                <img src="assets/images/services/service_style_2.jpg" alt />
+                <img src="assets/images/services/service_style_2.webp" alt />
                 <i class="icon-Our_service_2"></i>
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.constructions') }}">Construction of Buildings</a></h3>
@@ -58,7 +58,7 @@
           >
             <div class="single-service">
               <div class="service-img">
-                <img src="assets/images/services/service_style_3.jpg" alt />
+                <img src="assets/images/services/service_style_4.webp" alt />
                 <i class="icon-Our_service_3"></i>
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.disposals') }}">Disposal and Waste Treatment</a></h3>
@@ -78,7 +78,7 @@
           >
             <div class="single-service">
               <div class="service-img">
-                <img src="assets/images/services/service_style_4.jpg" alt />
+                <img src="assets/images/services/service_style_3.webp" alt />
                 <i class="icon-Our_service_4"></i>
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.consultancys') }}">Management Consultancy Activities</a></h3>
