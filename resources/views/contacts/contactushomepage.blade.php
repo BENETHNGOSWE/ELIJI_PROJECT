@@ -23,7 +23,7 @@
                             <button type="submit" name="submit" class="xs-btn">
                                 Submit
                             </button>
-                            <label class="call-us-number">Or Call US - <span>098 2639 6257</span></label>
+                            <label class="call-us-number">Or Call US  <span> +255 757 532 412</span></label>
                         </div>
                     </form>
                 </div>
@@ -38,7 +38,7 @@
                             He always there for their teammates, and he always go above and beyond to help others succeed.
                         </p>
                         <div class="testmonial-author">
-                            <img src="assets/images/author.jpg" alt />
+                            <img src="assets/images/team/team_3.webp" alt />
                             <h4>Mr.Daud Jige</h4>
                             <div class="author-rating">
                                 <i class="fa fa-star"></i>

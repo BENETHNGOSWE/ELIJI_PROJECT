@@ -39,13 +39,13 @@
                         <h3 class="widget-title">Usefull Links</h3>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="{{ route('home')}}">Home</a>
                             </li>
                             <li>
-                                <a href="about.html">About Us</a>
+                                <a href="{{ route('about_us.aboutus')}}">About Us</a>
                             </li>
                             <li>
-                                <a href="service-v1.html">Services</a>
+                                <a href="{{ route('allservicesfolder.allservicespages')}}">Services</a>
                             </li>
                             
                             <li>
@@ -60,23 +60,18 @@
                         <h3 class="widget-title">Our Services</h3>
                         <ul class="service-link">
                             <li>
-                                <a href="#">Design & Planing</a>
+                                <a href="{{ route('what_we_do.supportcrop')}}">Support Crop Production</a>
                             </li>
                             <li>
-                                <a href="#">Garden care</a>
+                                <a href="{{ route('what_we_do.constructions')}}">Construction of Buildings</a>
                             </li>
                             <li>
-                                <a href="#">Snow removal</a>
+                                <a href="{{ route('what_we_do.disposals')}}">Disposal and Waste Treatment</a>
                             </li>
                             <li>
-                                <a href="#">Preparing landscape</a>
+                                <a href="{{ route('what_we_do.consultancys')}}">Management Consultancy Activities</a>
                             </li>
-                            <li>
-                                <a href="#">Forest planing</a>
-                            </li>
-                            <li>
-                                <a href="#">Fence grate</a>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -95,7 +90,8 @@
                             </li>
                             <li>
                                 <i class="icon icon-envelope"></i>
-                                <a href="https://html.xpeedstudio.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="62071a030f120e0722050f030b0e4c010d0f">[email&#160;protected]</a>
+                                <p>info@eliji.co.tz</p>
+                                <!-- <a href="https://html.xpeedstudio.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="62071a030f120e0722050f030b0e4c010d0f">[email&#160;protected]</a> -->
                             </li>
                         </ul>
                     </div>

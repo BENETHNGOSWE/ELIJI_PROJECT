@@ -1,7 +1,7 @@
 @extends('layouts.main')
 @section('content')
 
-<section class="banner-inner-sec" style="background-image:url('assets/images/contact-banner.jpg')">
+<section class="banner-inner-sec" style="background-image:url('assets/images/contact_banner.webp')">
     <div class="banner-table">
         <div class="banner-table-cell">
             <div class="container">

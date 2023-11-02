@@ -19,12 +19,11 @@
             <div class="single-service">
               <div class="service-img">
                 <img src="assets/images/services/service_style_1.webp" alt />
-                <i class="icon-Our_service_1"></i>
+                <i class="icon-Our_service_2"></i>
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.supportcrop')}}">Support Crop Production</a></h3>
               <p>
-                Fruit is their fill meat hath abundantly place meat don't stars
-                so and which signs third second.
+              We offer a wide range of services to support crop production, including soil testing,and irrigation management.
               </p>
               <a href="{{ route('what_we_do.supportcrop') }}" class="readMore"
                 >Read more <i class="icon icon-arrow-right"></i>
@@ -39,12 +38,12 @@
             <div class="single-service">
               <div class="service-img">
                 <img src="assets/images/services/service_style_2.webp" alt />
-                <i class="icon-Our_service_2"></i>
+                <i class="icon-Our_service_1"></i>
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.constructions') }}">Construction of Buildings</a></h3>
               <p>
-                Fruit is their fill meat hath abundantly place meat don't stars
-                so and which signs third second.
+              We offer a full range of construction services, from design and planning to construction and completion.
+            
               </p>
               <a href="{{ route('what_we_do.constructions') }}" class="readMore"
                 >Read more <i class="icon icon-arrow-right"></i>
@@ -63,8 +62,8 @@
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.disposals') }}">Disposal and Waste Treatment</a></h3>
               <p>
-                Fruit is their fill meat hath abundantly place meat don't stars
-                so and which signs third second.
+              We offer a variety of disposal treatment services to help our clients 
+              reduce their environmental impact.
               </p>
               <a href="{{ route('what_we_do.disposals') }}" class="readMore"
                 >Read more <i class="icon icon-arrow-right"></i>
@@ -83,8 +82,8 @@
               </div>
               <h3 class="xs-service-title"><a href="{{ route('what_we_do.consultancys') }}">Management Consultancy Activities</a></h3>
               <p>
-                Fruit is their fill meat hath abundantly place meat don't stars
-                so and which signs third second.
+              We offer a variety of management consultancy services to help businesses of all 
+              sizes . 
               </p>
               <a href="{{ route('what_we_do.consultancys') }}" class="readMore"
                 >Read more <i class="icon icon-arrow-right"></i>

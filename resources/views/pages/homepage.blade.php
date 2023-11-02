@@ -13,10 +13,10 @@
               <div class="row align-items-center">
                 <div class="col-lg-10 offset-lg-1">
                   <div class="banner-content text-center">
-                    <h2>Best Gardening Service</h2>
+                    <h2>Eliji Environmental. </h2>
                     <p>
-                      Wonderful serenity has taken possession of my entire soul,
-                      like these sweet mornings of spring whole heart.
+                    Welcome to ELIJE Company 🌱, where we build dreams through construction 🏗️, empower minds in education 📚,
+                    navigate success through consultancy 🤝, and champion sustainable solutions in waste treatment.
                     </p>
                     <div class="xs-btn-wraper">
                       <a href="{{ route('allservicesfolder.allservicespages')}}" class="xs-btn"> Our Services </a>
@@ -41,7 +41,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-9">
                   <div class="banner-content">
-                    <h2>Urban Gardening</h2>
+                    <h2>Disposal and Waste Treatment</h2>
                     <p>
                       Wonderful serenity has taken possession of my entire soul,
                       like these sweet mornings of spring whole heart.
@@ -69,7 +69,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-8 offset-lg-4">
                   <div class="banner-content text-right">
-                    <h2>Lawn Care Service</h2>
+                  <h2>Management Consultancy Activities</h2>
                     <p>
                       Wonderful serenity has taken possession of my entire soul,
                       like these sweet mornings of spring whole heart.
