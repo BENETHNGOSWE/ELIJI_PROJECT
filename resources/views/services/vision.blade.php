@@ -27,7 +27,7 @@
               </div>
              
               <div class="author-info">
-                <img src="assets/images/post-author.jpg" alt />
+                <img src="assets/images/about/logo_2.webp" alt />
                 <h4>Denial Miller</h4>
                 <p>
                   Land she'd. Female own life hath i firmament which one itself
@@ -53,69 +53,18 @@
                     />
                     <div class="media-body">
                       <span class="post-meta-date">
-                        <a href="#"> Posted by Miller at 22 jan</a>
+                        <a href="#"> Posted by Eliji at 13 Nov</a>
                       </span>
                       <h5 class="entry-title">
-                        <a href="blog-single.html"
+                        <a href="#"
                           >After moved created for bit likeness
                         </a>
                       </h5>
                     </div>
                   </div>
-                  <div class="widget-post media">
-                    <img
-                      src="assets/images/sidebar/popular-post-img-2.jpg"
-                      class="d-flex"
-                      alt="popular post image"
-                      draggable="false"
-                    />
-                    <div class="media-body">
-                      <span class="post-meta-date">
-                        <a href="#"> Posted by Miller at 22 jan</a>
-                      </span>
-                      <h5 class="entry-title">
-                        <a href="blog-single.html"
-                          >Creat In appear was, the you lesser.</a
-                        >
-                      </h5>
-                    </div>
-                  </div>
-                  <div class="widget-post media">
-                    <img
-                      src="assets/images/sidebar/popular-post-img-3.jpg"
-                      class="d-flex"
-                      alt="popular post image"
-                      draggable="false"
-                    />
-                    <div class="media-body">
-                      <span class="post-meta-date">
-                        <a href="#"> Posted by Miller at 22 jan</a>
-                      </span>
-                      <h5 class="entry-title">
-                        <a href="blog-single.html"
-                          >Fowl bring given living moved good
-                        </a>
-                      </h5>
-                    </div>
-                  </div>
-                  <div class="widget-post media">
-                    <img
-                      src="assets/images/sidebar/popular-post-img-4.jpg"
-                      class="d-flex"
-                      alt="popular post image"
-                      draggable="false"
-                    />
-                    <div class="media-body">
-                      <span class="post-meta-date">
-                        <a href="#"> Posted by Miller at 22 jan</a>
-                      </span>
-                      <h5 class="entry-title">
-                        <a href="blog-single.html"
-                          >Moved created for bit likeness flow</a
-                        >
-                      </h5>
-                    </div>
-                  </div>
+                
+               
+                
                 </div>
               </div>
               

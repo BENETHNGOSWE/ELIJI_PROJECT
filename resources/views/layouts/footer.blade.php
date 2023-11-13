@@ -10,7 +10,7 @@
                 <div class="col-lg-3">
                     <div class="widgets">
                         <div class="footer-logo">
-                            <a href="index.html"><img src="assets/images/about/logo_2.webp" width="110em"alt> </a>
+                            <a href="#"><img src="assets/images/about/logo_2.webp" width="110em"alt> </a>
                         </div>
                         <p>
                             Fruit is their fill meat hath abundantly place meat don't stars so and which signs third second
@@ -49,7 +49,7 @@
                             </li>
                             
                             <li>
-                                <a href="blog.html">blog</a>
+                                <a href="#">blog</a>
                             </li>
                             
                         </ul>
@@ -101,7 +101,7 @@
         <div class="copyright-content">
             <div class="row">
                 <div class="col-md-6">
-                    <p>Copyright 2023, <a href="https://themeforest.net/user/xpeedstudio">Eliji Environmental</a>. All Rights Reserved.</p>
+                    <p>Copyright 2023, <a href="#">Eliji Environmental</a>. All Rights Reserved.</p>
                 </div>
                 <div class="col-md-6">
                     <ul class="footer-bottom-menu">

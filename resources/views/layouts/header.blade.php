@@ -23,13 +23,13 @@
     </div>
 </section> -->
 
- <section class="xs-header-middle">
+<section class="xs-header-middle">
     <div class="container">
         <div class="row">
             <div class="col-md-3 align-self-center">
                 <div class="logo">
-                    <a href="index.html">
-                        <img src="assets/images/about/logo_3.webp" width="80em"alt>
+                    <a href="#">
+                        <img src="assets/images/about/logo_3.webp" width="80em" alt>
                     </a>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <div class="nav-header">
 
                         <a href="{{ route('home')}}" class="mobile-logo">
-                            <img src="assets/images/about/logo_2.webp" width="60em"alt>
+                            <img src="assets/images/about/logo_2.webp" width="60em" alt>
                         </a>
                         <div class="nav-toggle"></div>
                     </div>
@@ -69,27 +69,17 @@
                             <li><a href="{{ route('allservicesfolder.allservicespages')}}">Services</a>
                             </li>
                             <li><a href="{{ route('contactus.contactus')}}">Contact</a></li>
-                            <li><a href="gallery.html">Portfolio</a></li>
                             <li><a href="#">Blog</a>
                                 <ul class="nav-dropdown">
                                     <li>
-                                        <a href="blog.html">blog</a>
+                                        <a href="#">blog</a>
                                     </li>
                                     <li>
-                                        <a href="blog-single.html">blog single</a>
+                                        <a href="#">blog single</a>
                                     </li>
                                 </ul>
+
                             
-                            <li>
-                                <a href="#">Pages</a>
-                                <ul class="nav-dropdown">
-                                    <li><a href="pricing.html">pricing Plan</a></li>
-                                    <li><a href="faq.html">FAQ</a></li>
-                                    <li><a href="testimonial.html">testimonial</a></li>
-                                    <li><a href="team.html">Team</a></li>
-                                    <li><a href="404.html">404</a></li>
-                                </ul>
-                            </li>
                         </ul>
                         <div class="header-nav-right-info align-to-right">
                             <label><i class="icon icon-phone3"></i> +255 757 532 412</label>
